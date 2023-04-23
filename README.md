@@ -1,4 +1,4 @@
-![alt text](https://github.com/matic031/Sorting-Algorithms-with-React/blob/master/public/screen.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matic031/Sorting-Algorithms-with-React/main/public/screen.png)
 
 # Getting Started with Create React App
 
